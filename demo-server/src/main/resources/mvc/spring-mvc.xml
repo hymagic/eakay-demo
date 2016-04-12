@@ -12,7 +12,7 @@
        default-autowire="no" default-lazy-init="true">
 
     <context:component-scan base-package="cn.eakay.demo.webfront.controller"/>
-
+   
     <!--<mvc:annotation-driven />-->
     <mvc:annotation-driven>
         <mvc:message-converters>
